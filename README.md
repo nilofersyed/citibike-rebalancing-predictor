@@ -44,15 +44,15 @@ The project combines Python for preprocessing and risk scoring, SQL concepts for
 ## ⚙️ Workflow
 
 Raw Data
-      ↓
+    ↓
 Python Cleaning
-      ↓
+    ↓
 Feature Engineering
-      ↓
+    ↓
 Risk Prediction
-      ↓
+    ↓
 Power BI Dashboard
-      ↓
+    ↓
 Business Insights
 
 ---
@@ -98,6 +98,6 @@ Business Insights
 
 **Nilofer Syed**
 
-LinkedIn: *(Add your LinkedIn URL)*
+
 
 GitHub: https://github.com/nilofersyed
