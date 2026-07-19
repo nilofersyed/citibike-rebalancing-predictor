@@ -59,7 +59,7 @@ Business Insights
 
 ## 📊 Dashboard Preview
 
-![Urban Pulse Dashboard](Dashboard.png)
+![Urban Pulse Dashboard](dashboard.png)
 
 ---
 
